@@ -1,0 +1,13 @@
+<form (submit)="submit()">
+    <label>Product Name*</label>
+    <input type="text" name="productname" [(ngModel)]="productname" required>
+    <br>
+
+    <label>Product*</label>
+    <input type="text" name="product" [(ngModel)]="product" required>
+    <br>
+
+    <label>Description*</label>
+    <input type="text" name="description" placeholder="Description" [(ngModel)]="description"required>
+    <button type="sumbit">Add Product</button>
+</form>

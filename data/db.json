@@ -1,0 +1,16 @@
+{
+    "products": [
+      {
+          "id": 1,
+          "title":"Samsung Galaxy M12 (White,4GB RAM, 64GB Storage) 6000 mAh with 8nm Processor",
+      },
+      {
+          "id": 2,
+          "title":"Prestige Iris 750 Watt Mixer Grinder with 3 Stainless Steel Jar + 1 Juicer Jar (White and Blue)",
+      },
+      {
+          "id": 3,
+          "title":"Prestige PIC 16.0+ 1900- Watt Induction Cooktop with Push button (Black)"
+      }
+    ]    
+}

@@ -1,0 +1,14 @@
+<form [formGroup]="form" (submit)="submit()">
+    <label>Product Name</label>
+    <input type="text" name="productname" formControlName="productname">
+    <br>
+
+    <label>Product</label>
+    <input type="text" name="product" formControlName="product">
+    <br>
+
+    <label>Description</label>
+    <input type="text" name="description" placeholder="Description" formControlName="description">
+    <button type="sumbit">Save</button>
+</form>
+
