@@ -11,11 +11,12 @@ ul {
     list-style: none;
 }
 .nav-bar {
-    background-color: #343e34;
+    background-color: #00BFFF;
     display: flex;
     justify-content: space-between;
     align-items: center;
     color: white;
+    padding: 20px;
 }
 .nav-bar a {
     color: white;
@@ -25,8 +26,18 @@ ul {
     padding: 15px 15px 15px 0px;
 }
 .title {
-    padding-left: 15px;
+    padding-left: 40px;
     font-size: 20px;
+    padding-right: 30%;
+}
+.select {
+    margin: 1px;
+    padding: 0%;
+    font-size: 15px;
+    display: flex;
+    background-color: #00BFFF;
+    border: none;
+    color: white;
 }
 .wrraper {
     display: flex;
