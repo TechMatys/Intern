@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "One Plus 9 5G(Astral Black,8GB RAM, 128GB Storage),"
+    },
+    {
+      "id": 2,
+      "title": "One Plus Nord CE 5G(Charcol Ink,8GB RAM, 128GB Storage)"
+    },
+    {
+      "id": 3,
+      "title": "New Apple Iphone 12 Mini (64GB)"
+    },
+    {
+      "productname": "gkldnfg",
+      "product": "gkdj",
+      "description": "bjbfdsj",
+      "id": 4
+    },
+    {
+      "productname": "abcde",
+      "product": "klop",
+      "description": "bwerj",
+      "id": 5
+    }
+  ]
+}
